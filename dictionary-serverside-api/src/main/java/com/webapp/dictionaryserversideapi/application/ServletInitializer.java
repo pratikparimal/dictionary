@@ -1,4 +1,4 @@
-package com.webapp.dictionaryserversideapi;
+package com.webapp.dictionaryserversideapi.application;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
